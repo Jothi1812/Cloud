@@ -1,0 +1,7 @@
+runtime: java17
+entrypoint: java -Djava.awt.headless=true -jar helloworld.war
+
+
+
+
+# jar cfm hello-world-app.jar MANIFEST.MF HelloWorldApp.class
