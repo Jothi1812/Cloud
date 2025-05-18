@@ -4,3 +4,6 @@ entrypoint: python main.py
 handlers:
 - url: /.*
   script: auto
+
+
+# gcloud projects add-iam-policy-binding greets-460217 --member="serviceAccount:greets-460217@appspot.gserviceaccount.com" --role="roles/storage.admin"
