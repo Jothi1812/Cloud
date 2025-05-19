@@ -121,3 +121,24 @@ while True:
 # Left Pin	5V (Red)
 # Middle Pin	A0 (Analog In)
 # Right Pin	GND (Black)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+sudo adduser immanu
+su - jothi
+sudo usermod -aG sudo immanu
+su - immnanu
+sudo apt update
